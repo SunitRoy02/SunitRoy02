@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @SunitRoy02
-- 👀 I’m interested in new technology
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on new and cool projects
 - 📫 Contact me on my linkedin www.linkedin.com/in/sunit-roy333
 
 <!---
